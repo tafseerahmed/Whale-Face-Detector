@@ -6,7 +6,7 @@ Usage:
 Using below mean image and renaming the Model job directory appropirately run the following command.
 ![image](https://user-images.githubusercontent.com/12884292/42422600-acbf03e0-8306-11e8-8832-97286dde6f69.png)
 
-python deploy.py <image>
+python deploy.py image.jpg
   
 Model Statistics:
 ![image](https://user-images.githubusercontent.com/12884292/42422532-9c7da2bc-8305-11e8-9375-9ba067102100.png)
@@ -21,7 +21,7 @@ Dataset Information:
 ![image](https://user-images.githubusercontent.com/12884292/42422572-435c43b8-8306-11e8-9e57-822f9a4968c2.png)
 
 Frameworks Used:
-  Caffe,
+  Caffe
   ,Model: GoogLeNet Inception with optimizations; ADAM
   ,DIGITS by Nvidia
   
