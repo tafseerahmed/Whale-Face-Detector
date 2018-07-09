@@ -18,8 +18,8 @@ Model Statistics:
 ![image](https://user-images.githubusercontent.com/12884292/42422572-435c43b8-8306-11e8-9e57-822f9a4968c2.png)
 
 ## Frameworks Used:
-   ### *  Caffe
-   ### * ,Model: GoogLeNet Inception with optimizations; ADAM
-   ### * ,DIGITS by Nvidia
+   ### * Caffe
+   ### * Model: GoogLeNet Inception with optimizations; ADAM
+   ### * DIGITS by Nvidia
   
  
