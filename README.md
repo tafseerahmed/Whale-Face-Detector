@@ -2,7 +2,7 @@
 ## Detecting Whale Faces Using GoogLeNet, Caffe, DIGITS
 ![image](https://user-images.githubusercontent.com/12884292/42422608-d478ad1e-8306-11e8-9e51-795c15b47a3e.png)
 
-##Usage:
+## Usage:
 ```python deploy.py image.jpg```
   
 Model Statistics:
@@ -12,14 +12,14 @@ Model Statistics:
 
 ![image](https://user-images.githubusercontent.com/12884292/42422554-fbafa0aa-8305-11e8-827a-c2d80dcf3563.png)
 
-##Dataset Information:
+## Dataset Information:
 
 ![image](https://user-images.githubusercontent.com/12884292/42422621-01b1501a-8307-11e8-8487-298d1b4eced4.png)
 ![image](https://user-images.githubusercontent.com/12884292/42422572-435c43b8-8306-11e8-9e57-822f9a4968c2.png)
 
-##Frameworks Used:
-   * ###Caffe
-   * ###,Model: GoogLeNet Inception with optimizations; ADAM
-   * ###,DIGITS by Nvidia
+## Frameworks Used:
+   ### *  Caffe
+   ### * ,Model: GoogLeNet Inception with optimizations; ADAM
+   ### * ,DIGITS by Nvidia
   
  
